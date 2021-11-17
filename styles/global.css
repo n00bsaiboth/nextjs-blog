@@ -25,3 +25,16 @@ img {
   max-width: 100%;
   display: block;
 }
+
+/* For sticky footer
+ *
+ */ 
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
