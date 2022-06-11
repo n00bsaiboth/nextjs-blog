@@ -5,7 +5,7 @@ date: '2021-11-14'
 
 Like I told on the previous post, I'm new to next.js so I had some troubles to add the social media icons from the font-awesome library. The plan was to make them visible on the front page footer section, but because that didn't work, I did it the old fashioned way.
 
-- [LinkedIn](https://www.linkedin.com/in/jussi-jokinen-86722634/)
+- [LinkedIn](https://www.linkedin.com/in/jussi-k-jokinen/)
 - [Facebook](https://www.facebook.com/n00bsaiboth/)
 - [Instagram](https://www.instagram.com/n00bsaiboth/)
 - [Twitter](https://www.twitter.com/n00bsaiboth/)
