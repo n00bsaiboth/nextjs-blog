@@ -27,6 +27,22 @@ export default function Home({ allPostsData }) {
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
+        <!-- Matomo -->
+        <script>
+          var _paq = window._paq = window._paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="//80.209.230.81/";
+            _paq.push(['setTrackerUrl', u+'matomo.php']);
+            _paq.push(['setSiteId', '3']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <!-- End Matomo Code -->
+
       </Head>
       <section className={utilStyles.headingMd}>
           <p className={utilStyles.intro}>
@@ -45,7 +61,6 @@ export default function Home({ allPostsData }) {
       </section>
 
       <section>
-      
             <p><a href="mailto: jussi.k.jokinen [at] gmail.com"><FontAwesomeIcon icon={faEnvelope}></FontAwesomeIcon>{' '}jussi.k.jokinen [at] gmail.com</a></p>
             <p><a href="tel:+358 41 701 6628"><FontAwesomeIcon icon={faPhone}></FontAwesomeIcon>{' '}  +358 41 701 6628</a></p>
             <p><a href="https://about.me/jussi.jokinen/" target="_blank"><FontAwesomeIcon icon={faLink}></FontAwesomeIcon>{' '} about.me/jussi.jokinen/</a></p>
