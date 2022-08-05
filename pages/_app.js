@@ -13,8 +13,10 @@ const MATOMO_SITE_ID = 7;
 export default function App({ Component, pageProps }) {
     useEffect(() => { 
         init({url: MATOMO_URL, siteId: MATOMO_SITE_ID});
-        push(["trackPageView"]);
+        
     }, []);
     
+    push(["trackPageView"]);
+
     return <Component {...pageProps} />
 }
