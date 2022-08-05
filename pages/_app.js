@@ -6,7 +6,7 @@ config.autoAddCss = false;
 
 import { init } from "@socialgouv/matomo-next";
 
-const MATOMO_URL = '//matomo.testi-pannu.net';
+const MATOMO_URL = 'https://matomo.testi-pannu.net';
 const MATOMO_SITE_ID = 7;
 
 export default function App({ Component, pageProps }) {
