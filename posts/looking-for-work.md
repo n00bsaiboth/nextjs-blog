@@ -5,7 +5,7 @@ date: '2021-08-10'
 
 Hi,
 
-I'm currently looking for a job as a trainee or junior software developer, near Turku area. I'm interested in web development.
+I'm currently looking for a job as a software developer, near Turku area. I'm interested in web development.
 
 So far, what I can tell. I've been working with LAMP-stack (I'm no expert on the subject, but I think I might have some experience with it and also with the leading CMS's like Wordpress and Drupal that rely on LAMP), but I'm interested moving towards for example MERN-stack, because PHP might be at the end of the line in a few years and the same might go to MySQL as well, because so many use MongoDB nowadays.
 
@@ -17,4 +17,4 @@ So, what I can tell you about myself (besides that, that I'm highly motivated an
 
 My salary wish would be around 9-11 euros per hour, because like I told you before, I'm no expert on anything and also, because life is more than just money. For me, salary is just a number on my bank account and at the end of the month, I'm satisfied if the number is above the line after all expenses.  Money is what we get when we are interested to do something and when we are quite good what we do, but it doesn't define us.After all, we are all quite equal.
 
-You can view my LinkedIn profile from [here](https://www.linkedin.com/in/jussi-jokinen-86722634/).
+You can view my LinkedIn profile from [here](https://www.linkedin.com/in/jussi-k-jokinen/).

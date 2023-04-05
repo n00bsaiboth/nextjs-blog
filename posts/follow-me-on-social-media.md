@@ -13,7 +13,7 @@ Like I told on the previous post, I'm new to next.js so I had some troubles to a
 
 Also, you can view my personal homepages from [here](http://jussi.jokinen.arkku.net) and my light entrepreneur pages from [here](https://infected-design.net). Although, it has been quite quiet on the business side. 
 
-That's why I'm looking for a "stable" developer position (trainee/junior), near Turku area, with a salary wish of 9-11 euros/hour, because I think it's reasonable salary wish for a sunday coder like me.
+That's why I'm looking for a "stable" developer position, near Turku area, with a salary wish of 9-11 euros/hour, because I think it's reasonable salary wish for a guy like me.
 
 
 
