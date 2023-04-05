@@ -1,5 +1,5 @@
 ---
-title: 'The search is finally over, I am a software Developer trainee at Citrus Solutions'
+title: 'The search is finally over, I am a software Developer at Citrus Solutions'
 date: '2022-05-17'
 ---
 
