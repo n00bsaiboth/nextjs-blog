@@ -1,1 +1,1 @@
-# nextjs-blog
+# Next.js blogging system
