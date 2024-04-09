@@ -16,7 +16,11 @@ export default function Layout({ children, home }) {
         <meta
           name="Simple blogging platform, builded with next.js"
           content="Learn how to build a personal website or a blogging platform using Next.js"
-          keywords="Jussi Jokinen, n00bsaiboth, Turku, Finland, web developer, Drupalist, Linux and information security enthusiast "
+        />
+        <meta 
+          keywords="Jussi Jokinen, n00bsaiboth, Turku, Finland, web developer, Drupalist, Wordpress, Fullstack, Backend, Linux and information security enthusiast, Looking for work"
+        />
+        <meta 
           author="Jussi Jokinen"
         />
         <meta
