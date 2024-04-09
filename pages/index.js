@@ -31,7 +31,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
           <p className={utilStyles.intro}>
             <FontAwesomeIcon icon={faQuoteLeft}></FontAwesomeIcon>
-            {' '} Sunday coder | Freelancer | Script kiddie | Raspberry Pi | IoT | Web developer | Linux and information security enthusiast. {' '} 
+            {' '} Freelancer | Script kiddie | Raspberry Pi | IoT | Web developer | Linux and information security enthusiast. {' '} 
             <FontAwesomeIcon icon={faQuoteRight}></FontAwesomeIcon> 
           </p> 
       </section>
