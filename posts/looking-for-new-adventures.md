@@ -1,5 +1,5 @@
 ---
-title: "Looking for new adventures"
+title: 'Looking for new adventures'
 date: '2024-04-26'
 ---
 
