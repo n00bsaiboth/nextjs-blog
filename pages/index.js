@@ -27,7 +27,6 @@ export default function Home({ allPostsData }) {
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
-        <!-- Matomo -->
         <script>
           var _paq = window._paq = window._paq || [];
           /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
@@ -41,7 +40,6 @@ export default function Home({ allPostsData }) {
             g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
           })();
         </script>
-      <!-- End Matomo Code -->
       </Head>
       <section className={utilStyles.headingMd}>
           <p className={utilStyles.intro}>
