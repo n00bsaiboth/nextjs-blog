@@ -12,7 +12,13 @@ export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
       <Head>
+		    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+        <meta name="robots" content="index, follow" />
+        <link rel="canonical" href="https://nextjs-blog-seven-rho-68.vercel.app/" />
+
         <link rel="icon" href="/favicon.ico" />
+        
         <meta
           name="Simple blogging platform, builded with next.js"
           content="Learn how to build a personal website or a blogging platform using Next.js"
