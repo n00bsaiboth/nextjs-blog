@@ -3,7 +3,7 @@ title: 'Career change for the devops and more to Javascript'
 date: '2024-12-22'
 ---
 
-This is me, thinking to myself (out loud).
+This is me, thinking to myself (out loud). To be honest, career change is a bit too strong word to describe it. Although, it's not the first time that I think about Javascript (MERN or MEAN stack). Yet, never thought about moving to DevOps until now. Also it doesn't necessary mean that I leave LAMP stack behind, maybe I'll just try to expand my knowledge and opportunities.
 
 This year gave me a lot of thought, that who I want to be, when I grow up. I've been always playful when it comes to Linux, but I've been thinking that I should change the stack, I've been working with. LAMP is great, no questions asked, but we live in the year of 2024, so maybe in the year of 2025, I'll lean more towards MERN stack.
 
@@ -20,11 +20,10 @@ So I was pondering between the new Drupal [Starshot](https://www.drupal.org/abou
 
 I have a Drupal history, so it was a bit of a shock, that there was no composer out of the box on Wordpress. Then the environment switching between develop and production was also a bit pain. Luckily, after a few days of Googling, I found [Bedrock](https://roots.io/bedrock/). Bedrock comes with other benefits too, the file structure is more clear and it works really well with Lando.
 
-The documentation project can be viewed here, even though, it doesn't have much content yet. 
+The documentation project can be viewed here, even though, it doesn't have much content yet.
 
 - [documentation.openinnovations.io](https://documentation.openinnovations.io)
 
 Back to the main topic. It's not only about the stack, like I said, I've been playful with Linux, so maybe I'm more like a devops guy, than a developer guy. At least I know, that I'm not much of a front end guy.
 
 Thanks for reading and I hope you a good year of 2025. While your at it, go buy yourself a coffee and offer one for me to at [buymeacoffee](https://buymeacoffee.com/openinnovations).
-
